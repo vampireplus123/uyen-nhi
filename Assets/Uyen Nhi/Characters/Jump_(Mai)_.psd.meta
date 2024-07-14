@@ -5,6 +5,27 @@ TextureImporter:
   - first:
       213: -5028739874716321893
     second: Jump_(Mai)__0
+  - first:
+      213: 7031646826117897725
+    second: Jump_(Mai)__1
+  - first:
+      213: 6346907480901539712
+    second: Jump_(Mai)__2
+  - first:
+      213: -8542803529616733261
+    second: Jump_(Mai)__3
+  - first:
+      213: -1884744718584646529
+    second: Jump_(Mai)__4
+  - first:
+      213: 3019377510379398445
+    second: Jump_(Mai)__5
+  - first:
+      213: -8186305542271470785
+    second: Jump_(Mai)__6
+  - first:
+      213: -6057199152854862087
+    second: Jump_(Mai)__7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,12 +124,12 @@ TextureImporter:
       name: Jump_(Mai)__0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 910
-        height: 704
+        x: 13
+        y: 464
+        width: 152
+        height: 209
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -120,17 +141,172 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 407
+        width: 135
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd92c8788d659160800000000000000
+      internalID: 7031646826117897725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 536
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d76df9beb41850800000000000000
+      internalID: 6346907480901539712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 398
+        width: 151
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbcd37937dd17980800000000000000
+      internalID: -8542803529616733261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__4
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 394
+        width: 162
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74f77c0aaa08d5e0800000000000000
+      internalID: -1884744718584646529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 395
+        width: 194
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25a7fc29dbf6e920800000000000000
+      internalID: 3019377510379398445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 457
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33f8127b76646e80800000000000000
+      internalID: -8186305542271470785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_(Mai)__7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 162
+        width: 141
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f940867180fba0800000000000000
+      internalID: -6057199152854862087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e12191940169d8640a8c117956f3268c
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Jump_(Mai)__0: -5028739874716321893
+      Jump_(Mai)__1: 7031646826117897725
+      Jump_(Mai)__2: 6346907480901539712
+      Jump_(Mai)__3: -8542803529616733261
+      Jump_(Mai)__4: -1884744718584646529
+      Jump_(Mai)__5: 3019377510379398445
+      Jump_(Mai)__6: -8186305542271470785
+      Jump_(Mai)__7: -6057199152854862087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
