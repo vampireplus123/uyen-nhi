@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Game_Avatar_0: 4715585068545129319
+      Game_Avatar_1: 1071808719032553956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
