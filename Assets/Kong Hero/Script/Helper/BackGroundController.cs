@@ -23,19 +23,26 @@ public class BackGroundController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		var x = target.position.x - startPosX;
+    // Calculate the distance moved by the target
+    var x = target.position.x - startPosX;
 
-		if (Background != null) {
-			var offset = (x * speedBG) % 1;
-			Background.material.mainTextureOffset = new Vector2 (offset, Background.material.mainTextureOffset.y);
-		}
-		if (Midground != null) {
-			var offset = (x * speedMG) % 1;
-			Midground.material.mainTextureOffset = new Vector2 (offset, Midground.material.mainTextureOffset.y);
-		}
-		if (Forceground != null) {
-			var offset = (x * speedFG) % 1;
-			Forceground.material.mainTextureOffset = new Vector2 (offset, Forceground.material.mainTextureOffset.y);
-		}
-	}
+    // Update background offset
+    if (Background != null) {
+        var offsetBG = x * speedBG;
+        Background.material.mainTextureOffset = new Vector2(offsetBG, Background.material.mainTextureOffset.y);
+    }
+
+    // Update midground offset
+    if (Midground != null) {
+        var offsetMG = x * speedMG;
+        Midground.material.mainTextureOffset = new Vector2(offsetMG, Midground.material.mainTextureOffset.y);
+    }
+
+    // Update foreground offset
+    if (Forceground != null) {
+        var offsetFG = x * speedFG;
+        Forceground.material.mainTextureOffset = new Vector2(offsetFG, Forceground.material.mainTextureOffset.y);
+    }
+}
+
 }
