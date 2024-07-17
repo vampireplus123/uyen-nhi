@@ -418,7 +418,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fire_Bullet_(Mai)_0: 4433613981482826407
+      Fire_Bullet_(Mai)_1: 1006934179541168368
+      Fire_Bullet_(Mai)_10: 5760758649178025735
+      Fire_Bullet_(Mai)_11: -6534468102185945980
+      Fire_Bullet_(Mai)_12: 1485138580038321190
+      Fire_Bullet_(Mai)_2: -1777102188496550985
+      Fire_Bullet_(Mai)_3: -2927498050489293032
+      Fire_Bullet_(Mai)_4: -2043617938729111810
+      Fire_Bullet_(Mai)_5: 6555858417806382079
+      Fire_Bullet_(Mai)_6: -4066524345783042527
+      Fire_Bullet_(Mai)_7: -2436788295386515109
+      Fire_Bullet_(Mai)_8: -3140886900192088561
+      Fire_Bullet_(Mai)_9: -3675980317825841120
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
